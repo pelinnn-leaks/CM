@@ -1,4 +1,4 @@
-# ChadAlphaMales (fixed)
+# ChadAlphaMales
 
 If there's a problem with the cheat, please make a github issue and i'll try to fix it.
 
